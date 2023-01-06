@@ -1,4 +1,5 @@
 ![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Rio%20Arya&description=Hi%20there.%20My%20name%20is%20Rio%20Arya.%20I%20am%20a%20Tech%20Enthusiast,%20especially%20in%20Web%20Development.%20I%20am%20a%20student%20at%20the%20Institute%20of%20Business%20and%20Technology%20Indonesian%20(INSTIKI)%20majoring%20in%20informatics%20engineering.&image=https://avatars.githubusercontent.com/u/105624375?s=400&u=3f3388f5c6116e45a51df54576d58cb55b47ebee&v=4&backgroundColor=%23ecf0f1
+
 # 💫 About Me:
 Hi there 👋<br>My name is Rio Arya. I am a Tech Enthusiast, especially in Web Development. I am a student at the Institute of Business and Technology Indonesian (INSTIKI) majoring in informatics engineering.<br><br>👯 I’m looking to collaborate with everyone<br>🤝 I’m looking for help from anyone<br>🌱 I’m currently learning web development<br>⚡ Fun fact: I like about Japan Culture
 
