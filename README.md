@@ -1,16 +1,33 @@
-![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Rio%20Arya&description=Hi%20there%20👋%0AMy%20name%20is%20Rio%20Arya.%20I%20am%20a%20Tech%20Enthusiast,%20especially%20in%20Web%20Development.%20I%20am%20a%20student%20at%20the%20Institute%20of%20Business%20and%20Technology%20Indonesian%20(INSTIKI)%20majoring%20in%20informatics%20engineering.&image=https://avatars.githubusercontent.com/u/105624375?s=400&u=3f3388f5c6116e45a51df54576d58cb55b47ebee&v=4&backgroundColor=%23ecf0f1&pattern=ticTacToe&colorPattern=%23CEEDC7&instagram=rioarya22_&twitter=theriodiamond_&github=RioArya01)
+<div align="center">
+  <img src="https://github.com/rioarya01/my-readme-banner/blob/88c0a06ff36e7e905e05befd621908d36879fc90/my-readme-banner-1.png" />
+</div>
+<br />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rioarya22_) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@theriodiamond_ ) 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RioArya01&theme=vue&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RioArya01&theme=vue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RioArya01&theme=vue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <h1>
+    Hii Everyone
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <p>
+    My name is Rio Arya. I am a Tech Enthusiast specifically in Web Development. Besides technology, I am also interested in Science Fiction, Economics, Music, and Japanese Culture. And currently I am also still a student majoring in Informatics Engineering at the Indonesian Institute of Business and Technology (INSTIKI).
+  </p>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=RioArya01&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rioarya01&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🌐 Social Media
+[![Instagram](https://img.shields.io/badge/Instagram_%20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rioarya22_)
+[![Twitter](https://img.shields.io/badge/Twitter_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rioaryakun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/i-gede-rio-arya-bawesi)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
