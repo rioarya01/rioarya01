@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">My name is Rio Arya. I am a Tech Enthusiast specifically in Web Development and Data Analyst. Besides technology, I am also interested in Science Fiction, Economics, Music, and Japanese Culture. I am an undergraduate student majoring in Informatics Engineering at the Indonesian Institute of Business and Technology (INSTIKI).</p>
+<p align="left">My name is Rio Arya. I am a Tech Enthusiast specifically in Web Development and Data Analyst. Besides technology, I am also interested in Science Fiction, Economics, Music, and Japanese Culture. I am an graduate student majoring in Informatics Engineering at the Indonesian Institute of Business and Technology (INSTIKI).</p>
 
 ###
 
@@ -108,9 +108,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rioarya01/rioarya01/output/snake.svg" alt="Snake animation" />
 
 ###
