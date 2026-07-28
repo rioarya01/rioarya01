@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hii Everyone 👋</h1>
+<h1 align="center">Hi, I'm Rio 👋</h1>
 
 ###
 
