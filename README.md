@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I’m Rio, an Informatics Engineering graduate from INSTIKI. I’m a tech enthusiast with a focus on web development and data analysis. Outside of tech, I also like science fiction, economics, music, and Japanese culture.</p>
+<p align="left">I'm rio, an computer science graduate and a technology enthusiast. I enjoy building software, learning new technologies and mixing my idea into practical solutions. Outside of coding, I also enjoy music, science fiction, economics and japanese culture.</p>
 
 ###
 
@@ -33,15 +33,21 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
 </div>
 
